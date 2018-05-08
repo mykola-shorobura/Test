@@ -13,6 +13,7 @@ public class Test {
         System.out.println("commit 9");
         System.out.println("commit 10");
         System.out.println("commit 11");
+        System.out.println("test commit");
         System.out.println("commit 12");
         System.out.println("commit 13");
         System.out.println("commit 14");
