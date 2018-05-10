@@ -2,6 +2,7 @@ package com.test;
 
 public class Test {
     public static void main(String[] args) {
+        System.out.println("test_branch_1");
         System.out.println("commit 1");
         System.out.println("commit 2");
         System.out.println("commit 3");
@@ -23,5 +24,6 @@ public class Test {
         System.out.println("commit 18");
         System.out.println("commit 19");
         System.out.println("commit 20");
+        System.out.println("test_branch_2");
     }
 }
