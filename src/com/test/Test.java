@@ -25,5 +25,6 @@ public class Test {
         System.out.println("commit 19");
         System.out.println("commit 20");
         System.out.println("test_branch_2");
+        System.out.println("test_branch_commit_2");
     }
 }
