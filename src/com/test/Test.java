@@ -23,5 +23,6 @@ public class Test {
         System.out.println("commit 18");
         System.out.println("commit 19");
         System.out.println("commit 20");
+        System.out.println("new_branch");
     }
 }
