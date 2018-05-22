@@ -14,5 +14,6 @@ public class Test {
         System.out.println("commit 10");
         System.out.println("commit 11");
         System.out.println("find changes");
+        System.out.println("find changes");
     }
 }
